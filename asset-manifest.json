@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skillwill-task-todo/static/css/main.332152bd.css",
+    "main.js": "/skillwill-task-todo/static/js/main.5820ffb8.js",
+    "index.html": "/skillwill-task-todo/index.html",
+    "main.332152bd.css.map": "/skillwill-task-todo/static/css/main.332152bd.css.map",
+    "main.5820ffb8.js.map": "/skillwill-task-todo/static/js/main.5820ffb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.332152bd.css",
+    "static/js/main.5820ffb8.js"
+  ]
+}
